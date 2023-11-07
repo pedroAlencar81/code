@@ -1,2 +1,8 @@
+git init
+git config user.name
+git config user.email
 git add --all
 git commit -m "Arquivo aula_git.txt criado"
+git branch
+git checout
+git merge nova_branch
