@@ -2,6 +2,7 @@
 chamado ESCOLA e deixe-o pronto para o uso. Depois, pesquise qual é o comando utilizado
 para inserir uma tabela no banco de dados e siga as instruções:*/
 CREATE DATABASE ESCOLA;
+USE ESCOLA;
 
 --1. crie uma tabela chamada ALUNO;
 CREATE TABLE ALUNO(
